@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact **I'm into rap music and beat 'em up video games**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephAwuku33)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/josephawuku11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josephawuku11" height="30" width="40" /></a>
