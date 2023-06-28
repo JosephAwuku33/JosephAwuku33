@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/josephawuku11" target="blank"><img src="https://img.shields.io/twitter/follow/josephawuku11?logo=twitter&style=for-the-badge" alt="josephawuku11" /></a> </p>
 
-- 🌱 I’m currently learning **React Native and The MERN stack**
+- 🌱 I’m currently learning **React Native, The MERN stack and Flutter**
 
 - 💬 Ask me about **Android and React**
 
