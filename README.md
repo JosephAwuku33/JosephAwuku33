@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android and React**
 
-- 📫 How to reach me **33jaykay@gmail.com**
+- 📫 How to reach me **josephamoakoawuku@gmail.com**
 
 - ⚡ Fun fact **I'm into rap music and beat 'em up video games**
 
