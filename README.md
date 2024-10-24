@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/josephawuku11" target="blank"><img src="https://img.shields.io/twitter/follow/josephawuku11?logo=twitter&style=for-the-badge" alt="josephawuku11" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, The MERN stack and Flutter**
+- 🌱 I’m currently learning **React Native, Angular , The MERN stack and NestJS**
 
-- 💬 Ask me about **Android and React**
+- 💬 Ask me about **Operating Systems and Angular**
 
 - 📫 How to reach me **josephamoakoawuku@gmail.com**
 
